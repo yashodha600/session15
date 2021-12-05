@@ -1,0 +1,32 @@
+.container{
+  padding: 20px;
+  height: 100vw;
+  background: #83a4d4;
+  background: linear-gradient(to left, #00060f, #404042 );
+  color: white;
+}
+.tableHeader > span
+{
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+span{
+  display:inline-block;
+  margin-top: 1rem;
+  margin-right: 3rem;
+  min-width: 150px;
+}
+label{
+  margin-right:1rem;
+}
+input{
+  padding:1rem;
+  font-size:1.2rem;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 45px;
+}
